@@ -176,6 +176,13 @@ font-weight: 600;
     text-decoration: none;
     color: #000;
 }
+.index-country-name:hover {
+opacity: 0.8;
+}
+.index-country-name:active {
+opacity: 0.6;
+}
+
 .idex-country-details {
     margin: 0;
 }
